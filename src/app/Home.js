@@ -6,7 +6,7 @@ export default function Home() {
           🚧 Coming Soon
         </h1>
         <p className="text-lg md:text-xl text-gray-700 mb-10 animate-fade-in-up">
-          We're building something awesome. Stay updated by joining our mailing list.
+          We are building something awesome. Stay updated by joining our mailing list.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-2 sm:gap-0">
           <input
